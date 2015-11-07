@@ -1,0 +1,1 @@
+Factory behavior like Struct
